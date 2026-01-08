@@ -1,5 +1,8 @@
 # AI Implementation in Legal Workflows: Training Case Study
 
+## Disclaimer:
+I have used gemini 3 flash to generate this readme file for convenience I will edit this later on. I also have read some links from the internet to make sure I understand the Legal AI system but primarily chose ABA Model Rules of Professional Conduct and research some legal AI used from Stanford Law School and UC Berkeley Law.
+
 ## Executive Summary
 This repository serves as a professional portfolio and training environment for the implementation of Artificial Intelligence within legal drafting and client communication workflows. The project focuses on the strategic integration of Large Language Models (LLMs) to enhance efficiency while maintaining the highest standards of professional ethics, attorney-client privilege, and legal accuracy.
 
