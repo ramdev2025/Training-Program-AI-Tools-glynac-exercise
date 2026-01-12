@@ -1,0 +1,34 @@
+
+*** HEALTHCARE COMPLIANCE POLICY DOCUMENT (SAMPLE) ***
+
+SECTION 1: HIPAA COMPLIANCE & PRIVACY POLICIES
+1.1 Uses and Disclosures of Protected Health Information (PHI)
+Our organization may use or disclose PHI for treatment, payment, and health care operations without patient authorization. All other uses require written authorization. We maintain a log of disclosures for six years.
+1.2 Patient Rights
+Patients have the right to inspect and copy their PHI, request amendments, and receive an accounting of disclosures.
+1.3 Security Safeguards
+Physical access to servers is restricted. Electronic access requires unique user IDs and passwords. Data is encrypted at rest but currently not encrypted in transit within the internal network.
+
+SECTION 2: EMPLOYMENT PRACTICES & EQUAL OPPORTUNITY
+2.1 Equal Employment Opportunity
+We are an equal opportunity employer. We do not discriminate based on race, color, religion, sex, or national origin.
+2.2 Hiring Process
+All candidates must pass a background check. Medical examinations are required for all applicants prior to a job offer being made.
+2.3 Reasonable Accommodations
+Employees requesting accommodations for disabilities must submit a formal request to HR. Requests are reviewed on a case-by-case basis.
+
+SECTION 3: DATA PROTECTION & STATE PRIVACY
+3.1 Data Retention
+Patient records are retained for 10 years.
+3.2 Breach Notification
+In the event of a data breach, we will notify affected individuals within 90 days of discovery.
+
+SECTION 4: VENDOR AGREEMENTS (STANDARD TERMS)
+4.1 Business Associate Agreements (BAA)
+All vendors handling PHI must sign a BAA.
+4.2 Liability
+Vendor liability for data breaches is limited to the value of the contract.
+4.3 Audits
+We reserve the right to audit vendor security practices once every two years.
+
+*** END OF DOCUMENT ***
